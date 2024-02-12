@@ -2,4 +2,5 @@
 echo " this is prgm is from git"
 echo " new line added after creating webhook"
 echo "enabled git webhook in jenkin configure"
+echo "direct tigger to another project"
 #end
